@@ -17,4 +17,4 @@ For architecture insights and technical documentation, visit our official GitHub
 
 ---
 
-© 2025 Fractal Labyrinth Systems LLC. All rights reserved.
+© 2025 Fractal Labyrinth Systems LLC All rights reserved.
